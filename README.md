@@ -17,4 +17,4 @@ online JSON to CSV conversion
 https://sqlify.io/convert/json/to/csv<br>
 Convert and transform any data
 
-__Links are not endorsements__
+_Links are not endorsements_
