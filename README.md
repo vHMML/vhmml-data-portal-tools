@@ -17,7 +17,7 @@ online JSON to CSV conversion
 https://sqlify.io/convert/json/to/csv<br>
 Convert and transform any data
 
-https://jsonformatter.org/json-to-xml<br>
+https://jsonformatter.org/<br>
 JSON Formatter is a free to use tools which helps to format, validate, save and share your JSON data
 
 _Links are not endorsements_
